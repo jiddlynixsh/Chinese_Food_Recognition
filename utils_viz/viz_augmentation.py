@@ -46,7 +46,7 @@ def show_augmentation_grid():
         axes[i].axis('off')
     
     plt.tight_layout()
-    plt.savefig('./my_dataset/fig2_augmentation.png', dpi=300)
+    plt.savefig('./paper_images/fig2_augmentation.png', dpi=300)
     print("已生成: fig2_augmentation.png")
     plt.show()
 

@@ -41,7 +41,7 @@ model.add(layers.Dropout(0.5, name='Dropout'))
 model.add(layers.Dense(6, activation='softmax', name='Output'))
 
 # ==========================================
-# 2. 配色与生成 (这是魔法发生的时刻)
+# 2. 配色与生成 
 # ==========================================
 # 定义每种层的颜色 
 color_map = defaultdict(dict)
