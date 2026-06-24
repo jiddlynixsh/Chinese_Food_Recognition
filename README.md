@@ -8,7 +8,6 @@ A Lightweight Chinese Cuisine Recognition System Based on Tensorflow
 
 ## 📚 实验结果 Results & Visualization
 ### 特征图可视化 Grad-CAM
-这里展示你的模型聚焦在哪里，比如通过热力图看它是不是真的在看“菜”，而不是看“盘子”：
 ![Grad-CAM Result](docs/paper_images/gradcam_result.png) 
 
 ### 👍性能指标 Metrics
